@@ -18,8 +18,8 @@ server:
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/driveguard?createDatabaseIfNotExist=true
-    username: ayesh
-    password: 123@ayesh
+    username: root
+    password: Logitech
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
